@@ -2,6 +2,7 @@
 
 This repository contains a minimal scaffold for a zoomable, connectable sticky notes application.
 
+
 ## Backend (PHP + SQLite)
 
 1. Initialize the database:
