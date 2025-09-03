@@ -2,21 +2,6 @@
 
 This repository contains a minimal scaffold for a zoomable, connectable sticky notes application.
 
-## Quick Start
-
-Run the helper script:
-
-```bash
-./run.sh
-```
-
-On Windows, use the PowerShell variant:
-
-```powershell
-./run.ps1
-```
-
-The script initializes the database, starts the backend at `http://localhost:8000`, and attempts to open the frontend in your default browser.
 
 ## Backend (PHP + SQLite)
 
